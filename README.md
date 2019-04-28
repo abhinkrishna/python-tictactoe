@@ -8,4 +8,5 @@ Tic-Tac-Toe is a 2D simple game which can be played by two players. The first pl
 
 * This game uses tkinter python GUI package
 ***
-Our Website : [HARK Designs & Solutions](https://www.harkdevelopers.com)
+##### HARK Designs & Solutions
+##### Website : [www.harkdevelopers.com](https://www.harkdevelopers.com)
